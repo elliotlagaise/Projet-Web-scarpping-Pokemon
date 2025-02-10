@@ -1,4 +1,4 @@
-# 📌 Réussir à récupérer les informations des Pokémon sur le site
+# 📌 Réussir à récupérer les informations des Pokémons sur le site
 
 Récuperer les information des pokemons et créer une boucle pour en tirrer les images.
 
